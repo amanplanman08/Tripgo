@@ -19,3 +19,4 @@
 # Optional: track entire wp-admin folder in LFS (WARNING: this will track non-binary files too)
 wp-admin/** filter=lfs diff=lfs merge=lfs -text
 wp-content/themes/** filter=lfs diff=lfs merge=lfs -text
+wp-content/** filter=lfs diff=lfs merge=lfs -text
