@@ -1,6 +1,6 @@
 # WordPress Core (we don't version control this)
-wp-admin/
-wp-includes/
+# wp-admin/
+# wp-includes/
 *.php
 !wp-config.php
 index.php
